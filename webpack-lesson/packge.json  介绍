@@ -1,0 +1,13 @@
+{
+  "name": "webpack-lesson", // 包的名字
+  "version": "1.0.0", // 版本号
+  "main": "index.js", // 主入口
+  "scripts": {}, // 脚本配置
+  "license": "MIT", // 开源协议
+  "devDependencies": {}, // 开发依赖
+  "dependencies": {} // 依赖
+
+    ----我是分割线----
+  "author" 作者
+  "repository" 仓库地址 
+}
